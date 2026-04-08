@@ -1,4 +1,4 @@
-# FEA_Knowledge_Copilot_RAG_Powered_Engineering_Assistant_
+# FEA Knowledge Copilot: RAG_Powered_Engineering_Assistant_
 • Developed an AI-powered chatbot using Retrieval
 Augmented Generation (RAG) to answer queries from
 FEA/LS-Dyna manuals/Regulation pdf.
