@@ -15,3 +15,4 @@ based accurate answers.
 Colab
 • Impact: Reduced manual search time for FEA
 engineers and improved productivity
+Note: You need to get key files for open ai and NGROK to tun this project
